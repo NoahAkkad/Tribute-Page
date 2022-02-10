@@ -1,36 +1,10 @@
-
-.main{
- background-color:bisque;
- margin: 10px 10px 10px 10px;
- 
-}
 body{
-  background-color:azure;
+  margin: 0px;
+  margin-top: 0px;
 }
-#title{
- font-size: 50px;text-align: center;font-weight: bold;
- color: black;text-transform: uppercase;text-shadow:2px 2px 2px silver;
-}
-.main p{
- font-size: 20px;text-align: left;font-weight:bold;text-shadow:2px 2px 2px silver;
- margin-left: 30px;
-}
-.image{
-  display: block;margin-left: auto;margin-right: auto;width: 30%;
-}
-.image h2{
+header{
+  background-color: silver;
   text-align: center;
-}
-.hislive h3{
-  font-size: 20px;text-align: left;color: black;font-weight: bold;background-color: silver;text-transform: uppercase;text-shadow:2px 2px 2px silver; margin-left: 30px;
-}
-footer{
-  font-size: 20px;text-align: center;text-shadow:2px 2px 2px silver;color: darkred;text-transform: uppercase;background-color: blanchedalmond;
-}
-h2{
-  text-align: center;text-shadow:2px 2px 2px silver;color: black; margin-left: 25px;
-}
-p{
-  margin-left: 55px;
-}
+  
 
+}
